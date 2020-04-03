@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/awx000008",
-	"version": "1.0.0",
+	"version": "1.0.202004030831",
 	"description": "扫码",
 	"scripts": {
 		"test": "tsc -w",
