@@ -1,0 +1,8 @@
+	// 扫码
+	/**
+	 * ${0:扫码结果}
+	 */
+	const r$CURRENT_SECONDS_UNIX = await(() => {
+		const p1 = ${1|false,true|};	// 是否只能从相机扫码，true不允许从相册选择图片
+		return awx8(p1);
+	})();
